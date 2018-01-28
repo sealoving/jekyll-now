@@ -1,5 +1,8 @@
+---
+layout: post
+title: First Week at Metis & Project Benson
+---
 
-# First Week at Metis & Project Benson
   
 ## A Short and Productive Week
 It has been a short week, time-wise. The first Monday of our cohort was MLK day, which meant that we had to cover more content each day, and we also had only thee days to finish the first project. Living in Redmond, I spend on average 2.5 hours per day commuting to Seattle downtown by bus. For the first week, I slept less than 6 hours per day but remained surprisingly productive, despite the lack of sleep. I guess there was a bit of adrenaline rush too.

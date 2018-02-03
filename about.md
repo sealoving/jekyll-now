@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <p align="center"><img src="../images/profile.png" width="400"></p>
 
-Hi there, thanks for visiting my site!  
+Hi there! Thanks for visiting my site.  
 
 I'm a data scientist and math enthusiast. Check out my [portafolio]() for some cool projects, or my [blog](https://sealoving.github.io/) to read more.
 

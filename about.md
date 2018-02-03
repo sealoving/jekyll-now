@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data scientist, geomorphologist and coastal engineer, math enthusiast.
 
-### More Information
+### Fun Stuff
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy photography when I'm not working, especially underwater photography. Here's a link to my photography website:
+[sealovingproductions](www.sealoving.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+The best way to contact me is to use the email link below.

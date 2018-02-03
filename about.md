@@ -21,4 +21,4 @@ Underwater and Aerial photography
 
 ### Contact me
 
-The best way to contact me is to use the email link below.
+Please send me a message at manliang.gmail.com or through LinkedIn.

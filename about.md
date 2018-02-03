@@ -8,8 +8,8 @@ Data scientist, geomorphologist and coastal engineer, math enthusiast.
 
 ### Fun Stuff
 
-I enjoy photography when I'm not working, especially underwater photography. Here's a link to my photography website:
-[sealovingproductions](www.sealoving.com)
+I enjoy photography when I'm not working, especially underwater photography. Here's a link to my
+[photography website](https://www.sealoving.com)
 
 ### Contact me
 

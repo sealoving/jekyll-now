@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-![profilepic](./images/profile.png)
+<img src="./images/profile.png" width="400">
 
 Hi there, thanks for visiting my site!  
 

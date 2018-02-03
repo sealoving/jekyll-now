@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![GSprofilepic](https://scholar.google.com/citations?view_op=medium_photo&user=N08QGhsAAAAJ&citpid=3)
+![profilepic](./images/profile.png)
 
 Hi there, thanks for visiting my site!  
 

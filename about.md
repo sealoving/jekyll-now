@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, thanks for visiting my site!  
 
-I'm a data scientist and math enthusiast. Check out my [portafolio]() for some cool projects, and take a look at my [blog](https://sealoving.github.io/) if you would like to read more.
+I'm a data scientist and math enthusiast. Check out my [portafolio]() for some cool projects, or my [blog](https://sealoving.github.io/) to read more.
 
 Before transitioning to data science, I received a B.S. in Mathematics and a Ph.D in Civil Engineering. My primary field of study was numerical methods for geomorphology and coastal engineering. Here is a list of my peer-reviewed [publications](https://scholar.google.com/citations?user=N08QGhsAAAAJ&hl=en).
 

@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Data scientist, geomorphologist and coastal engineer, math enthusiast.
+Hi! I'm a data scientist and math enthusiast, with years of experience in geomorphology and coastal engineering. Check out my portafolio for some cool projects, and take a look at my blog if you would like to read more!
 
-### Fun Stuff
-
-I enjoy photography when I'm not working, especially underwater photography. Here's a link to my
-[photography website](https://www.sealoving.com)
+In my spare time, I enjoy photography, especially [underwater photography](https://www.sealoving.com).
 
 ### Contact me
 

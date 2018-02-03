@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://github.com/sealoving/sealoving.github.io/blob/master/images/profile.png" width="400">
+<img src="./images/profile.png" width="400">
 
 Hi there, thanks for visiting my site!  
 

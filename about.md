@@ -14,7 +14,7 @@ In my spare time, I enjoy photography, especially [underwater photography](https
 
 ### In My Toolbox
 Python, Matlab, SQL, Java  
-Machine Learning, Geomorphology, Computational Fluid Dynamics, Hydrology 
+Machine Learning, Geomorphology, Computational Fluid Dynamics, Hydrology  
 Delft3D, ArcGIS, Excel, Tableau, Photoshop  
 Underwater and Aerial photography
 

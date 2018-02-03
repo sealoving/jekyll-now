@@ -12,8 +12,8 @@ In my spare time, I enjoy photography, especially [underwater photography](https
 
 ### In My Toolbox
 Python, Matlab, SQL, JAVA  
-Machine Learning
-Delft3D, ArcGIS, Excel, Tableau, Photoshop
+Machine Learning  
+Delft3D, ArcGIS, Excel, Tableau, Photoshop  
 Underwater and Aerial photography
 
 ### Contact me

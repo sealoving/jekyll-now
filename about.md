@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, thanks for visiting my site!  
+![GSprofilepic](https://scholar.google.com/citations?view_op=medium_photo&user=N08QGhsAAAAJ&citpid=3)
+
+Hi there, thanks for visiting my site!  
 
 I'm a data scientist and math enthusiast. Check out my [portafolio]() for some cool projects, or my [blog](https://sealoving.github.io/) to read more.
 

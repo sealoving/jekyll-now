@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p align="center"><img src="../images/profile.png" width="400"></p>
+<p align="center"><img src="../images/profile.png" width="300"></p>
 
 Hi there! Thanks for visiting my site.  
 

@@ -14,9 +14,9 @@ Before transitioning to data science, I received a B.S. in Mathematics from Peki
 In my spare time, I enjoy photography and outdoor activities. As a certified SCUBA diver and freediver (diving without a tank), I have had amazing experiences doing [underwater photography](https://www.sealoving.com).
 
 ### In my toolbox
-Python, Matlab, SQL, html  
+Python, Matlab, SQL, html, JavaScript, Flask, D3 
 Machine Learning, Geomorphology, Computational Fluid Dynamics, Hydrology  
-ArcGIS, Delft3D, Excel, Tableau, Photoshop  
+ArcGIS, Delft3D, Excel, Photoshop  
 Underwater and Aerial photography
 
 ### Contact me

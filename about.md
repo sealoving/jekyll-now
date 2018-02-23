@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<!-- <img align="right" src="../images/profile.png" width="300"> -->
+<img align="right" src="../images/profile.png" width="300">
 
 Hi there! Thanks for visiting my site.  
 

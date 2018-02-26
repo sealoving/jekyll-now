@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="left" src="../images/profile.png" width="30%">
+<img align="center" src="../images/profile.png" width="30%">
 
 I'm a data scientist who enjoys solving problems with math and programming. Check out my [resume](https://sealoving.github.io/resume/) for some past and ongoing projects, or my [blog](https://sealoving.github.io/) to read more.
 

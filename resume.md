@@ -13,7 +13,7 @@ I'm always fascinated by how complex systems can be simplified to essential proc
 * Applied biometric recognition techniques for ocean conservation 
 * Tools: Keras, Neural networks, Spark, AWS
 
-**Extracting insights from TED talks** ([blog](...), [repo]())  
+**A 3D Interactive Recommender for TED Talks** ([blog](...), [repo]())  
 * Investigated relationships between TED talks using topic modeling 
 * Created a TED talk recommender using a 3D interactive visualization 
 * Tools: NLTK, Gensim, Word2Vec, scikit-learn, pymongo  

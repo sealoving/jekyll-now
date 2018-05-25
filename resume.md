@@ -3,6 +3,8 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+My GitHub repository [click here](https://github.com/sealoving/)
+
 ### Summary
 I'm always fascinated by how complex systems can be simplified to essential processes and enjoys solving real-world problems with math and programming. As a data scientist, I believe that best practices are built on the thorough understanding of underlying algorithms, and the ability to communicate effectively. 
 

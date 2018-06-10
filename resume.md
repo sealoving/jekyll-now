@@ -9,23 +9,25 @@ My GitHub repository [click here](https://github.com/sealoving/)
 I'm always fascinated by how complex systems can be simplified to essential processes and enjoys solving real-world problems with math and programming. As a data scientist, I believe that best practices are built on the thorough understanding of underlying algorithms, and the ability to communicate effectively. 
 
 ### Projects
-**Whale Identifcation Using Deep Learning** [[blog](...), [repo]()]  
+**Whale Identifcation Using Deep Learning** ([blog](https://sealoving.github.io/metisproj5/), [repo](https://github.com/sealoving/Liang_Metis/tree/master/Project_5))  
 (in progress)
 * Developed neural network that identi es whales based on photos 
 * Applied biometric recognition techniques for ocean conservation 
 * Tools: Keras, Neural networks, Spark, AWS
 
-**A 3D Interactive Recommender for TED Talks** ([blog](...), [repo]())  
+**A 3D Interactive Recommender for TED Talks** ([blog](https://sealoving.github.io/metisproj4/), [repo](https://github.com/sealoving/Liang_Metis/tree/master/Project_4))  
 * Investigated relationships between TED talks using topic modeling 
 * Created a TED talk recommender using a 3D interactive visualization 
 * Tools: NLTK, Gensim, Word2Vec, scikit-learn, pymongo  
 
-**Edible or Poisonous? A Mushroom Classifier** ([blog](...), [repo]())  
+**Edible or Poisonous? A Mushroom Classifier** ([blog](https://sealoving.github.io/metisproj3/), [repo](https://github.com/sealoving/Liang_Metis/tree/master/Project_3))  
 * Evaluated various classi ers for identifying edible mushrooms 
 * Performed feature engineering accounting for human perception errors 
 * Tools: scikit-learn, pandas, NumPy, D3.js, Flask, PostgreSQL  
 
-**Predicting Sediment Concentration in the Mississippi River** ([blog](...), [repo]()) 
+**Predicting Sediment Concentration in the Mississippi River** ([blog](https://sealoving.github.io/metisproj2/), [repo](
+    https://github.com/sealoving/Liang_Metis/tree/master/Project_2
+)) 
 * Developed a regression model to predict Mississippi River sediment load 
 * Automated retrieving USGS hydrological data using web-scraping tools 
 * Tools: pandas, scikit-learn, StatsModels, BeautifulSoup, Selenium
